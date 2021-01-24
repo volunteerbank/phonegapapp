@@ -1,3 +1,10 @@
 # Mac
 .DS_Store
 .platforms
+/platforms
+.platforms/
+platforms/
+/plugins
+.plugins/
+plugins/
+.plugins
