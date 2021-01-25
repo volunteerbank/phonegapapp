@@ -4,10 +4,6 @@
 /platforms
 .platforms/
 platforms/
-/plugins
-.plugins/
-plugins/
-.plugins
 .node_modules
 /node_modules
 .node_modules/
