@@ -59,7 +59,8 @@
       "cordova-plugin-device-motion": {},
       "cordova-plugin-device-orientation": {},
       "cordova-plugin-media": {},
-      "cordova-plugin-splashscreen": {}
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-file-transfer": {}
     },
     "platforms": [
       "browser",
