@@ -34,7 +34,6 @@
 <plugin name="cordova-plugin-battery-status" />
 <plugin name="cordova-plugin-vibration" />
 <plugin name="cordova-plugin-battery-status" />
-<plugin name="cordova-plugin-inappbrowser" />
 <!--<plugin name="cordova-plugin-inappbrowser" />-->
 </widget>
 
