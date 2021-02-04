@@ -47,6 +47,7 @@
     <plugin name="cordova-plugin-splashscreen" />
     <plugin name="cordova-plugin-vibration" />
 <!--<plugin name="cordova-plugin-inappbrowser" />-->
+<preference name='phonegap-version' value='cli-7.1.0' />
 </widget>
 
 
