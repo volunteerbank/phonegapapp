@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/phonegap/phonegap-app-hello-world",
   "dependencies": {
+    "@kitchenmate/cordova-plugin-inappbrowser": "^3.2.1",
     "cordova-browser": "^6.0.0",
     "cordova-plugin-compat": "^1.2.0"
   },
