@@ -34,6 +34,9 @@
 <plugin name="cordova-plugin-battery-status" />
 <plugin name="cordova-plugin-vibration" />
 <plugin name="cordova-plugin-battery-status" />
+<plugin name="cordova-plugin-splashscreen" />
+<plugin name="cordova-plugin-console" />
+<plugin name="cordova-plugin-contacts" />
 <!--<plugin name="cordova-plugin-inappbrowser" />-->
 </widget>
 
